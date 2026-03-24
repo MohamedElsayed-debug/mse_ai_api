@@ -103,6 +103,8 @@ python main.py
 | :--- | :---: | :---: |
 | Free ChatGPT Web Backend | ✅ | ✅ |
 | Advanced n8n Tool Calling | ✅ | ✅ |
+| **Image Analysis (HTTP URL)** | ❌ | ✅ |
+| **Image Analysis (Base64/Binary)** | ❌ | ✅ Included |
 | **GUI Admin Dashboard** | ❌ | ✅ Included |
 | **Multi-User Management** | ❌ | ✅ Track Hundreds of Users |
 | **Usage Statistics & Logging** | ❌ | ✅ Detailed Database Logs |
